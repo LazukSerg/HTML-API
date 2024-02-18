@@ -1,0 +1,27 @@
+.my-map {
+    text-align: center;
+    height: 500px;
+    width: 100%;
+    background: #333;
+}
+
+.container {
+    text-align: center;
+    width: 100%;
+}
+
+.coord {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    width: 100%;
+    display: inline-block;
+}
+
+a {
+    text-align: center;
+    width: 100%;
+    display: inline-block;
+}
